@@ -1,4 +1,4 @@
-# Riks Sipoviča portfolio
+# Riks Sipovičs portfolio
 
 Šajā repozitorijā ir pieejams mans CV, kā arī dažādi personīgie, studiju un tehniskie projekti.
 
